@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CubaneroBlanco
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cloud security
+- 🌱 I’m currently learning blockchain development
 - 💞️ I’m looking to collaborate on lots of things...what you got?
 - 📫 How to reach me = cubanero@hotmail.com
 
